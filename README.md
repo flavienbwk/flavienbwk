@@ -1,5 +1,44 @@
-![flavienbwk's stats](https://github-readme-stats.vercel.app/api?username=flavienbwk&show_icons=true&theme=default&bg_color=30,f7f7f7,d1d1d1&title_color=4b495c&text_color=707070&border_color=f0f0f0&icon_color=636363&border_radius=0)
+# Hi, I'm [Flavien](https://berwick.fr) 👋
+
+- Freelance full-stack software developer and MSc student in apprenticeship
+- I like entrepreneurship as well as contributing to open-source projects
 
 [![LinkedIn: flavienbwk](https://img.shields.io/badge/-Flavien%20Berwick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flavienb/)](https://www.linkedin.com/in/flavienb/)
 [![Medium: flavienb](https://img.shields.io/badge/-@flavienb-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@serbis)](https://medium.com/@flavienb)
 ![Profile views](https://gpvc.arturio.dev/flavienbwk)
+
+<h4>🚀 Dev tools I use</h4>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
+<img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" alt="RabbitMQ" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg" alt="travis" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="Qt" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
+<img src="https://www.scaleway.com/favicon/favicon.svg" alt="scw" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
+</p>
+
+<h4>🎨 Design tools I use</h4>
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="25" height="25" />
+<img src="https://icon-library.com/images/solidworks-icon/solidworks-icon-25.jpg" title="Solidworks" alt="Solidworks" width="25" height="25" />
+</p>
+
+<p class="muted">When I want to create logos or design 3D objects</p>
+  
+<h4>📊 Profile analytics</h4>
+
+![flavienbwk's stats](https://github-readme-stats.vercel.app/api?username=flavienbwk&show_icons=true&theme=default&bg_color=30,f7f7f7,d1d1d1&title_color=4b495c&text_color=707070&border_color=f0f0f0&icon_color=636363&border_radius=0)
