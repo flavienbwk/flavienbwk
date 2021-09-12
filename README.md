@@ -20,6 +20,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="redis" width="25" height="25" />
 <img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" title="RabbitMQ" alt="RabbitMQ" width="25" height="25" />
 <img src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" title="Elasticsearch" alt="Elasticsearch" width="25" height="25" />
+<img src="https://speeload.com/uploads/vzpROhPSto.png" title="Prefect" alt="Prefect" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg" title="Travis" alt="travis" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="bootstrap" width="25" height="25" />
