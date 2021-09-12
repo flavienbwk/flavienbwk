@@ -17,16 +17,16 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
-<img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" alt="RabbitMQ" width="25" height="25" />
-<img src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" tite="Elasticsearch" alt="Elasticsearch" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="redis" width="25" height="25" />
+<img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" title="RabbitMQ" alt="RabbitMQ" width="25" height="25" />
+<img src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" title="Elasticsearch" alt="Elasticsearch" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg" alt="travis" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg" title="Travis" alt="travis" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="bootstrap" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="Qt" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
-<img src="https://www.scaleway.com/favicon/favicon.svg" alt="scw" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" title="Google Cloud Platform" alt="gcp" width="25" height="25" />
+<img src="https://www.scaleway.com/favicon/favicon.svg" title="Scaleway" alt="scw" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
