@@ -27,6 +27,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="Qt" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
 <img src="https://www.scaleway.com/favicon/favicon.svg" alt="scw" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
@@ -40,7 +41,7 @@
 <img src="https://icon-library.com/images/solidworks-icon/solidworks-icon-25.jpg" title="Solidworks" alt="Solidworks" width="25" height="25" />
 </p>
 
-<p class="muted">When I want to create logos or design 3D objects</p>
+<p class="muted">When I want to create logos, prototype UI or design 3D objects</p>
   
 <h4>📊 Profile analytics</h4>
 
