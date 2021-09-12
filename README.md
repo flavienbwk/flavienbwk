@@ -1,4 +1,4 @@
-# Hi, I'm [Flavien](https://berwick.fr) 👋
+# Hi, I'm [Flavien](https://berwick.fr/en) 👋
 
 - Freelance full-stack software developer and MSc student in apprenticeship
 - I like entrepreneurship as well as contributing to open-source projects
