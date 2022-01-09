@@ -6,7 +6,6 @@
 
 [![LinkedIn: flavienbwk](https://img.shields.io/badge/-Flavien%20Berwick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flavienb/)](https://www.linkedin.com/in/flavienb/)
 [![Medium: flavienb](https://img.shields.io/badge/-@flavienb-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@serbis)](https://medium.com/@flavienb)
-![Profile views](https://gpvc.arturio.dev/flavienbwk)
 
 <h4>🚀 Dev tools I use</h4>
 <p align="left">
