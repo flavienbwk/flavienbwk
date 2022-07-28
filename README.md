@@ -1,6 +1,6 @@
 # Hi, I'm [Flavien](https://berwick.fr/en) 👋
 
-- [Freelance](https://berwick.fr/en#contact) full-stack software developer and MSc student in apprenticeship
+- [Freelance](https://berwick.fr/en#contact) DevOps & Software engineering and MSc student in apprenticeship
 - I like entrepreneurship as well as contributing to open-source projects
 - Follow me on LinkedIn and Medium to read my latest articles
 
