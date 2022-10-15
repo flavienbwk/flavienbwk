@@ -1,4 +1,4 @@
-[# Hi, I'm [Flavien](https://links.berwick.fr/me-en) 👋
+# Hi, I'm [Flavien](https://links.berwick.fr/me-en) 👋
 
 - [Freelance](https://links.berwick.fr/me-en-contact) DevOps & Software engineering
 - I like entrepreneurship as well as contributing to open-source projects
