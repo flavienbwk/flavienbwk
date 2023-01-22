@@ -27,6 +27,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" title="Google Cloud Platform" alt="gcp" width="25" height="25" />
+<img src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" title="AWS" alt="aws" width="25" height="25" />
 <img src="https://www.scaleway.com/favicon/favicon.svg" title="Scaleway" alt="scw" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="25" height="25" />
@@ -39,6 +40,7 @@
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg" title="Adobe XD" alt="Adobe XD" width="25" height="25" />
+<img src="https://app.diagrams.net/images/apple-touch-icon.png" title="Draw.IO" alt="Draw.IO" width="25" height="25" />
 <img src="https://icon-library.com/images/solidworks-icon/solidworks-icon-25.jpg" title="Solidworks" alt="Solidworks" width="25" height="25" />
 </p>
 
