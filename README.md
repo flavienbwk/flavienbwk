@@ -8,7 +8,7 @@
 - 💼  Contact [me via e-mail](https://berwick.fr/en#contact) 📬
 
 [![LinkedIn: flavienbwk](https://img.shields.io/badge/-Flavien%20Berwick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flavienb/)](https://links.berwick.fr/me-ldkn)
-[![Medium: flavienb](https://img.shields.io/badge/-@flavienb-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@serbis)](https://links.berwick.fr/me-medium)
+[![Medium: flavienb](https://img.shields.io/badge/-@flavienb-black?style=flat-square&amp;labelColor=black&amp;logo=Medium&amp)](https://links.berwick.fr/me-medium)
 
 <h4>🚀 Dev tools I use</h4>
 
