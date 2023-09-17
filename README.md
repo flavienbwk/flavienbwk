@@ -1,11 +1,11 @@
 # Allô 👋
 
-- ⭐ [Freelance](https://links.berwick.fr/me-en-contact) DevOps & Software engineer
+- ⭐ Site Reliablity & Software Engineer
 - 💬 Always happy to chat about DevOps & SRE
 - 🌱 Loving entrepreneurship as well as open-source
 - 📕 Read my latest articles [on Medium](https://links.berwick.fr/me-medium)
 - :octocat: Check my latest open-source projects [on GitHub](https://github.com/flavienbwk?tab=repositories)
-- 💼  For business inquiries, [send me an email](https://berwick.fr/en#contact) 📬
+- 💼  Contact [me via e-mail](https://berwick.fr/en#contact) 📬
 
 [![LinkedIn: flavienbwk](https://img.shields.io/badge/-Flavien%20Berwick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flavienb/)](https://links.berwick.fr/me-ldkn)
 [![Medium: flavienb](https://img.shields.io/badge/-@flavienb-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@serbis)](https://links.berwick.fr/me-medium)
