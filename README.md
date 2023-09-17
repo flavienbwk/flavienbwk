@@ -8,6 +8,7 @@
 - 💼  Contact [me via e-mail](https://berwick.fr/en#contact) 📬
 
 [![LinkedIn: flavienbwk](https://img.shields.io/badge/-Flavien%20Berwick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flavienb/)](https://links.berwick.fr/me-ldkn)
+[![Amazon: Flavien BERWICK](https://img.shields.io/badge/-Flavien%27s%20books-whitesmoke?style=flat-square&amp;labelColor=whitesmoke&amp;logo=Amazon&amp)](https://links.berwick.fr/me-amazon)
 [![Medium: flavienb](https://img.shields.io/badge/-@flavienb-black?style=flat-square&amp;labelColor=black&amp;logo=Medium&amp)](https://links.berwick.fr/me-medium)
 
 <h4>🚀 Dev tools I use</h4>
