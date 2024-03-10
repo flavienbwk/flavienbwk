@@ -1,11 +1,12 @@
 # Allô 👋
 
-- ⭐ Site Reliablity & Software Engineer
+- ⭐ Site Reliability & Software Engineer
 - 💬 Always happy to chat about DevOps & SRE
 - 🌱 Loving entrepreneurship as well as open-source
+- 📖 Read my latest books [on Amazon](https://links.berwick.fr/me-amazon)
 - 📕 Read my latest articles [on Medium](https://links.berwick.fr/me-medium)
 - :octocat: Check my latest open-source projects [on GitHub](https://github.com/flavienbwk?tab=repositories)
-- 💼  Contact [me via e-mail](https://berwick.fr/en#contact) 📬
+- 💼 Connect with [me via e-mail](https://berwick.fr/en#contact) for business inquiries
 
 [![LinkedIn: flavienbwk](https://img.shields.io/badge/-Flavien%20Berwick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flavienb/)](https://links.berwick.fr/me-ldkn)
 [![Amazon: Flavien BERWICK](https://img.shields.io/badge/-Flavien%27s%20books-whitesmoke?style=flat-square&amp;labelColor=whitesmoke&amp;logo=Amazon&amp)](https://links.berwick.fr/me-amazon)
