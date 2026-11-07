@@ -1,6 +1,7 @@
 # Allô 👋
 
 - ⭐ Technical Advisor, Site Reliability & Software Engineer
+- 🚀 Founder of CArouter.ai, Canada's sovereign AI router
 - 💼 Connect with [me via LinkedIn](https://links.berwick.fr/me-ldkn) for [business inquiries](https://berwick.io?s=ghp)
 - 💬 Always happy to chat about DevOps & SRE
 - 🌱 Entrepreneurship & open-source
